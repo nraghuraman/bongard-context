@@ -127,12 +127,10 @@ To evaluate with Prototype-Mimic or one of the baselines, append `--mimic_kind P
 ## Bibtex
 If you use our project to inform your work, please consider citing us. Thank you!
 ```
-@misc{raghuraman2023crossimage,
-      title={Cross-Image Context Matters for Bongard Problems}, 
-      author={Nikhil Raghuraman and Adam W. Harley and Leonidas Guibas},
-      year={2023},
-      eprint={2309.03468},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{raghuraman2023cross,
+  title={Cross-Image Context Matters for Bongard Problems}, 
+  author={Nikhil Raghuraman and Adam W. Harley and Leonidas Guibas},
+  year={2023},
+  journal={arXiv:1804.04452},
 }
 ```
