@@ -2,6 +2,8 @@
 
 This is the official implementation of "Cross-Image Context Matters for Bongard Problems." [[Paper](https://arxiv.org/abs/2309.03468)] [[Project Page](https://nikhilraghuraman.com/projects/bongard.html)]
 
+![GIF demonstrating both forms of cross-image context](imgs/system_diagram.gif)
+
 ## Overview
 We introduce two approaches for incorporating cross-image context when solving Bongard problems: support-set standardization and support-set Transformers. We attain state-of-the-art performance on two Bongard datasets. We additionally attain strong performance on a third Bongard dataset where comparison with prior methods is not possible due to different evaluation.
 - State-of-the-art on [Bongard-HOI](https://github.com/NVlabs/Bongard-HOI)
