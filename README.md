@@ -1,5 +1,7 @@
 # Cross-Image Context Matters for Bongard Problems
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-image-context-matters-for-bongard/few-shot-image-classification-on-bongard-hoi)](https://paperswithcode.com/sota/few-shot-image-classification-on-bongard-hoi?p=cross-image-context-matters-for-bongard)
+
 This is the official implementation of "Cross-Image Context Matters for Bongard Problems." [[Paper](https://arxiv.org/abs/2309.03468)] [[Project Page](https://nikhilraghuraman.com/projects/bongard.html)]
 
 ![GIF demonstrating both forms of cross-image context](imgs/system_diagram.gif)
